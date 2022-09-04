@@ -11,6 +11,9 @@ int main() {
         scanf("%d", &b);
 
     
+    // Init Atif.
+
+    printf("%d\n", (a+b));
     
 
 return 0;
